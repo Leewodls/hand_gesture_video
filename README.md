@@ -50,5 +50,8 @@ MediaPipe를 활용하여 손 좌표 데이터를 추출하고, TensorFlow/Keras
 <img width="850" alt="스크린샷 2024-11-25 오후 8 47 04" src="https://github.com/user-attachments/assets/a9d2b033-72ec-4073-b887-438953839972">
 <img width="933" alt="스크린샷 2024-11-25 오후 8 47 16" src="https://github.com/user-attachments/assets/3cb5a2dc-d14a-497e-8c32-2ed237edbdd1">
 
-
+## 결과 테스트
+![21](https://github.com/user-attachments/assets/d31773ab-22a1-4eb4-8297-0cb2a3660e46)
+![가슴](https://github.com/user-attachments/assets/d7ec7cfb-818b-4598-9b44-21dd3553f52a)
+![고열](https://github.com/user-attachments/assets/173eb813-5fab-4fc9-8ed9-a1232d1905a3)
 
